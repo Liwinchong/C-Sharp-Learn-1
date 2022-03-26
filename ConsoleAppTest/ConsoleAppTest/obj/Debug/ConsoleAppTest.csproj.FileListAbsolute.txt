@@ -1,0 +1,8 @@
+E:\C#\C-Sharp-Learn-1\ConsoleAppTest\ConsoleAppTest\bin\Debug\ConsoleAppTest.exe.config
+E:\C#\C-Sharp-Learn-1\ConsoleAppTest\ConsoleAppTest\bin\Debug\ConsoleAppTest.exe
+E:\C#\C-Sharp-Learn-1\ConsoleAppTest\ConsoleAppTest\bin\Debug\ConsoleAppTest.pdb
+E:\C#\C-Sharp-Learn-1\ConsoleAppTest\ConsoleAppTest\obj\Debug\ConsoleAppTest.csproj.AssemblyReference.cache
+E:\C#\C-Sharp-Learn-1\ConsoleAppTest\ConsoleAppTest\obj\Debug\ConsoleAppTest.csproj.SuggestedBindingRedirects.cache
+E:\C#\C-Sharp-Learn-1\ConsoleAppTest\ConsoleAppTest\obj\Debug\ConsoleAppTest.csproj.CoreCompileInputs.cache
+E:\C#\C-Sharp-Learn-1\ConsoleAppTest\ConsoleAppTest\obj\Debug\ConsoleAppTest.exe
+E:\C#\C-Sharp-Learn-1\ConsoleAppTest\ConsoleAppTest\obj\Debug\ConsoleAppTest.pdb
