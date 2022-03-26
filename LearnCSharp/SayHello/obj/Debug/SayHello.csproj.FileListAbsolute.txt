@@ -1,0 +1,8 @@
+E:\C#\C-Sharp-Learn-1\LearnCSharp\SayHello\bin\Debug\SayHello.exe.config
+E:\C#\C-Sharp-Learn-1\LearnCSharp\SayHello\bin\Debug\SayHello.exe
+E:\C#\C-Sharp-Learn-1\LearnCSharp\SayHello\bin\Debug\SayHello.pdb
+E:\C#\C-Sharp-Learn-1\LearnCSharp\SayHello\obj\Debug\SayHello.csproj.AssemblyReference.cache
+E:\C#\C-Sharp-Learn-1\LearnCSharp\SayHello\obj\Debug\SayHello.csproj.SuggestedBindingRedirects.cache
+E:\C#\C-Sharp-Learn-1\LearnCSharp\SayHello\obj\Debug\SayHello.csproj.CoreCompileInputs.cache
+E:\C#\C-Sharp-Learn-1\LearnCSharp\SayHello\obj\Debug\SayHello.exe
+E:\C#\C-Sharp-Learn-1\LearnCSharp\SayHello\obj\Debug\SayHello.pdb
