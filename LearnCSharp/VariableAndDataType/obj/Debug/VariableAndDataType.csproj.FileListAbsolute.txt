@@ -1,0 +1,8 @@
+E:\C#\C-Sharp-Learn-1\LearnCSharp\VariableAndDataType\bin\Debug\VariableAndDataType.exe.config
+E:\C#\C-Sharp-Learn-1\LearnCSharp\VariableAndDataType\bin\Debug\VariableAndDataType.exe
+E:\C#\C-Sharp-Learn-1\LearnCSharp\VariableAndDataType\bin\Debug\VariableAndDataType.pdb
+E:\C#\C-Sharp-Learn-1\LearnCSharp\VariableAndDataType\obj\Debug\VariableAndDataType.csproj.AssemblyReference.cache
+E:\C#\C-Sharp-Learn-1\LearnCSharp\VariableAndDataType\obj\Debug\VariableAndDataType.csproj.SuggestedBindingRedirects.cache
+E:\C#\C-Sharp-Learn-1\LearnCSharp\VariableAndDataType\obj\Debug\VariableAndDataType.csproj.CoreCompileInputs.cache
+E:\C#\C-Sharp-Learn-1\LearnCSharp\VariableAndDataType\obj\Debug\VariableAndDataType.exe
+E:\C#\C-Sharp-Learn-1\LearnCSharp\VariableAndDataType\obj\Debug\VariableAndDataType.pdb
